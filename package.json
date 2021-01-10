@@ -1,5 +1,5 @@
 {
-  "name": "node-powershell",
+  "name": "elmosoftware-node-powershell",
   "version": "4.0.0",
   "description": "Easily run PowerShell from your NodeJS app",
   "main": "./lib/index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rannn505/node-powershell.git"
+    "url": "git+https://github.com/Elmosoftware/node-powershell.git"
   },
   "keywords": [
     "node-powershell",
